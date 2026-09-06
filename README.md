@@ -9,3 +9,5 @@ A simple front-end project created while learning Git and GitHub.
 
 ## How to run
 Simply open `index.html` in your browser.
+## Urgent fix
+Fixed a critical typo in the homepage.
