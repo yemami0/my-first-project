@@ -11,3 +11,5 @@ A simple front-end project created while learning Git and GitHub.
 Simply open `index.html` in your browser.
 ## Urgent fix
 Fixed a critical typo in the homepage.
+## Contributors
+- yemami0
