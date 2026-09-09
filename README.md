@@ -13,3 +13,5 @@ Simply open `index.html` in your browser.
 Fixed a critical typo in the homepage.
 ## Contributors
 - yemami0
+## Known Issues
+Fixed a typo in the project description.
